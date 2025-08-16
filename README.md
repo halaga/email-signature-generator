@@ -24,5 +24,3 @@ A **custom tool** built for Ringo staff to generate professional email signature
 
 ---
 
-📸 **Preview**
-*(Add screenshot here by dragging project screenshot into repo)*
