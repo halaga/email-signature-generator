@@ -23,4 +23,4 @@ A **custom tool** built for Ringo staff to generate professional email signature
 👉 [Signature Generator](https://ringo.ng/signature-generator.html)  
 
 ---
-
+<img width="1919" height="921" alt="ringo-gen" src="https://github.com/user-attachments/assets/db954ba7-1c28-47f9-8327-764858768de4" />
